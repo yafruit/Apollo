@@ -1,0 +1,10 @@
+Projeto "Apollo"
+Versão: 1.1 (apollo_rtm);
+
+Por: Portalcake
+http://forum.cronus-emulator.com/user/54300-portalcake/
+Pasta "data" atualizada de acordo com as atualizações do bRO.
+
+------------------------------------
+
+Documentação em construção.

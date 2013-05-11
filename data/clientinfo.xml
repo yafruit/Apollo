@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<servicetype>brazil</servicetype>
+	<servertype>primary</servertype>
+	<connection>
+		<display>Project "Apollo"</display>
+		<desc>1.1.1450.apollo_rtm.130511-1454</desc>
+		<balloon>By: Portalcake</balloon>
+		<langtype>10</langtype>
+		<address>127.0.0.1</address>
+		<port>6900</port>
+		<version>30</version>		
+		<registrationweb>http://forum.cronus-emulator.com/</registrationweb>
+		<aid>
+			<admin></admin>
+		</aid>
+		<loading>
+			<image>loading00.jpg</image>
+		</loading>
+	</connection>
+</clientinfo>
