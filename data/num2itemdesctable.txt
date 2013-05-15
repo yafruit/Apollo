@@ -17003,12 +17003,17 @@ Pode ser identificado
 com uma Lente de Aumento.
 //#
 //7608#
-//Ticket Não identificado.
+//Ticket promocional criado pela Corporação Kafra.
+//Troque-o por um prêmio aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
+//Esta promoção está disponível apenas ^0000ffaté à manutenção do dia 08/08/2012^000000 e desaparecerá de sua conta de jogo durante a mesma.
+//Então troque seu ticket agora mesmo!
+//Peso: ^7777771^000000
+//#
 #
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um prêmio aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas ^0000ffaté à manutenção do dia 08/08/2012^000000 e desaparecerá de sua conta de jogo durante a mesma.
+Esta promoção está disponível apenas ^0000ffaté à manutenção do dia 10/10/2012^000000 e desaparecerá de sua conta de jogo durante a mesma.
 Então troque seu ticket agora mesmo!
 Peso: ^7777771^000000
 #
@@ -19288,7 +19293,6 @@ Peso: ^77777710^000000
 Nível necessário: ^77777770^000000
 Classes que utilizam: ^777777Todas exceto Aprendiz e Evolução^000000
 #
-
 14301#
 A box that contains 1 'Ear of Ifrit' in it.
 A headgear which imitates an ears of Ifrit, the spiritual owner of fire.
@@ -23797,6 +23801,16 @@ Deve ser chocado por uma ^33CC33Incubadora^000000.
 ^0000ffCom lealdade normal/alta: +2% de resistência à propriedade Fogo e +1% de dano a monstros da propriedade Fogo.^000000
 Tipo: ^777777Ovo de Monstro^000000
 #
+6111#
+Uma pedra brilhante que emana poder mágico.
+Tipo: ^777777Comida para Bichinho^000000
+Peso: ^7777771^000000
+#
+6112#
+Uma pequena planta fresca. Parece apetitosa.
+Tipo: ^777777Comida para Bichinho^000000
+Peso: ^7777771^000000
+#
 6113#
 Uma bela flor que instiga o apetite da Succubus.
 Bichinho: ^777777Succubus^000000
@@ -25828,94 +25842,78 @@ Item não identificado. Pode ser identificado com uma [Lupa].
 1394#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 1491#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 1585#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 2015#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 13071#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 13115#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 16019#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 17084#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Katar Aprimorada.
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17085#
 ^ff0000Não pode ser trocado entre personagens^000000
 Uma caixa contendo um Machado Aprimorado de Duas Mãos
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17086#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Lança Aprimorada de Duas Mãos.
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17087#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo um Livro Aprimorado.
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17088#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo um Cajado Aprimorado.
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17089#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Adaga Aprimorada.
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17090#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Pistola Aprimorada.
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17091#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Maça Aprimorada.
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17092#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo um Arco Aprimorado.
 ^ff0000Após usado, este item não poderá ser devolvido.^000000
 Peso : ^7777771^000000
 #
-
 17093#
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Espada Aprimorada de Duas Mãos
@@ -26000,7 +25998,6 @@ Ovo da Páscoa.
 18112#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 21000#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
@@ -26311,10 +26308,6 @@ Pergaminho de Arma +11
 Pergaminho de Armadura +11
 #
 
-12664#
-Pergaminho_do_Golem
-#
-
 18668#
 Item não identificado. Pode ser identificado com uma [Lupa]
 #
@@ -26493,7 +26486,1662 @@ Item não identificado. Pode ser identificado com uma [Lupa]
 Item não identificado. Pode ser identificado com uma [Lupa]
 #
 
+18683#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
 
+18669#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+//Skill Balance
+#
+6415#
+Embrião Estranho
+#
+
+#
+2914#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+#
+2888#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+#
+18666#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+#
+18677#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+#
+12827#
+Ovo Não Identificado.
+#
+
+#
+18660#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+#
+4494#
+Carta General Tartaruga Selada
+#
+
+#
+4495#
+Carta Amon Ra Selada
+#
+
+#
+18809#
+Chapéu
+#
+
+//---------------------2012 October Items--------------------
+
+18694#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18701#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+2936#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+2495#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+15061#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+12852#
+Ovo não identificado
+#
+
+
+13990#
+Caixa de Manual de Combate de Classe
+#
+
+4486#
+Carta Belzebu Selada
+#
+
+4504#
+Carta Eddga Selada
+#
+
+14132#
+Caixa do Anel Crítico Aprimorado
+#
+
+2835#
+Anel Crítico Aprimorado
+#
+
+14408#
+Ovo não identificado
+#
+
+2165#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+20701#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+4502#
+Carta Mestre-ferreiro Howard Selada
+#
+
+4501#
+Carta Sumo-Sacerdotisa Margareta Selada
+#
+
+//---------------------2012 RWC Items--------------------
+
+1670#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+6665#
+Cupom que permite encantar um acessório do RWC 2012.
+Peso : ^7777771^000000
+#
+13092#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+14611#
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+Poção que faz com que o usuário consiga enrigecer sua pele, preparada a partir de escamas de dragões e ervas especiais.
+Aumenta a resistência a ataques físicos em 3% por 2 minutos.
+O efeito se desfaz quando o personagem desmaia ou recebe o efeito da magia Desencantar.
+^ffffff_^000000
+Peso : ^7777771^000000
+#
+14612#
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+Poção que faz com que o usuário consiga criar uma aura em torno de si,  preparada a partir da saliva de dragões e ervas especiais.
+Aumenta a resistência a ataques mágicos em 3% por 2 minutos.
+O efeito se desfaz quando o personagem desmaia ou recebe o efeito da magia Desencantar.
+^ffffff_^000000
+Peso : ^7777771^000000
+#
+14613#
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+Ovo do RWC 2012
+Feito para celebrar o Ragnarök World Championship. Você poderá receber vários prêmios exclusivos.
+Peso : ^7777771^000000
+#
+16026#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+14614#
+^ff0000This Item cannot be traded with other accounts.^000000
+Potion that made from dragon's strong skin, elf's mustache and special medicine
+Increase 3% tolerance to physical and magical attack for 30 min.
+^000088Effect goes away when player goes down or Dispell the item effect.^000000
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+17262#
+^ff0000This Item cannot be traded with other accounts.^000000
+A box containing 5 Special defense potions. You can get RWC 2012 scroll for celebrating RWC. 
+^ffffff_^000000
+^ff0000This Item cannot be traded with other accounts.^000000
+Potion that made from dragon's strong skin, elf's mustache and special medicine
+Increase 3% tolerance to physical and magical attack for 30 min.
+^000088Effect goes away when player goes down or Dispell the item effect.^000000
+^ffffff_^000000
+^ff0000Once this box is open, it won't be refunded.^000000^ff0000
+Weight : ^7777771^000000
+#
+18821#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+19650#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2966#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2967#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2968#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2969#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+12887#
+^000088Item de Aluguel^000000
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+^000088Dê clique duplo neste item para ser transportar até um local aleatório no mapa.^000000
+Peso : ^7777770^000000
+#
+17251#
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+Uma caixa contendo 1 Asa de Mosca Ilimitada que pode ser usada por 3 dias.
+^ffffff_^000000
+^000088Item de Aluguel^000000
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+^000088Dê clique duplo neste item para ser transportar até um local aleatório no mapa.^000000
+Peso : ^7777770^000000
+^ffffff_^000000
+^ff0000Uma vez aberta, a caixa não poderá ser recuperada.^000000
+Peso : ^7777771^000000
+#
+17252#
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+Uma caixa contendo 1 Anel do RWC 2012, 1 Colar do RWC 2012 e 1 Asa de Mosca Ilimitada com duração de 3 dias.
+^ff0000Uma vez aberta, a caixa não poderá ser recuperada.^000000
+Peso : ^7777771^000000
+#
+17253#
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+Uma caixa contendo 1 Anel do RWC 2012.
+^ffffff_^000000
+Anel do RWC 2012
+Um anel dourado, com o símbolo do RWC2012 gravado em sua superfície. Emana grande poder.
+ATQ + 1%.
+Quando equipado em conjunto com o Colar do RWC 2012, ATQ + 4%, ATQM+ 4%.
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777770^000000
+Peso : ^77777720^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+^ffffff_^000000
+^ff0000Uma vez aberta, a caixa não poderá ser recuperada.^000000
+Peso : ^7777771^000000
+#
+17254#
+^ff0000Este item não pode ser trocado entre outras contas.^000000
+Uma caixa contendo 1 Colar do RWC 2012.
+^ffffff_^000000
+Colar do RWC 2012
+Um colar dourado, com o símbolo do RWC2012 gravado em sua superfície. Emana grande poder.
+ATQM+ 1%.
+Quando equipado em conjunto com o Anel do RWC 2012, ATQ + 4%, ATQM+ 4%.
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777770^000000
+Peso : ^77777720^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+^ffffff_^000000
+^ff0000Uma vez aberta, a caixa não poderá ser recuperada.^000000
+Peso : ^7777771^000000
+#
+
+//-------RWC2012 enchant event material-------------
+
+4797#
+HP+300
+#
+4796#
+HP+200
+#
+4795#
+HP+100
+#
+4800#
+SP + 50
+#
+4801#
+SP + 100
+#
+4802#
+SP + 150
+#
+4807#
+Vel. ATQ + 1.
+#
+4811#
+ATQ + 6, Precisão + 2.
+#
+4815#
+ATQM+ 6, Diminui Tempo de Conjuração em 4%.
+#
+4818#
+CRI + 6, HIT + 2.
+#
+4819#
+ATQ + 1%.
+#
+4821#
+ATQ + 21, HIT + 5.
+#
+4822#
+ATQ + 24, HIT + 5.
+#
+4823#
+ATQ + 27, HIT + 5.
+#
+4824#
+ATQ + 30, HIT + 5.
+#
+4825#
+ATQ + 50, HIT + 15.
+#
+4827#
+ATQM+ 21, Diminui Tempo de Conjuração em 10%.
+#
+4828#
+ATQM+ 24, Diminui Tempo de Conjuração em 10%.
+#
+4829#
+ATQM+ 27, Diminui Tempo de Conjuração em 10%.
+#
+4830#
+ATQM+ 30, Diminui Tempo de Conjuração em 10%.
+#
+4831#
+ATQM+ 50, Diminui Tempo de Conjuração em 20%.
+#
+4832#
+Ataque à distância 2%.
+#
+4837#
+Ataque à distância 12%.
+#
+4838#
+Ataque à distância 14%.
+#
+4839#
+Ataque à distância 16%.
+#
+4840#
+Ataque à distância 18%.
+#
+4841#
+Ataque à distância 20%, Vel. ATQ + 1.
+#
+4842#
+Vel. ATQ + 2.
+#
+4859#
+Esquiva + 1.
+#
+4860#
+Esquiva + 3.
+#
+4861#
+MHP + 1%.
+#
+4862#
+MHP + 2%.
+#
+4867#
+MHP + 3%.
+#
+4868#
+MHP + 4%.
+#
+4870#
+SP + 25
+#
+4871#
+SP + 75
+#
+//----------2012 halloween---------------
+6654#
+^ff0000Você não pode trocar este item com outra conta.^000000
+Estão predestinados a permanecer um com o outro. Só pode ser encontrado durante o Evento do Dia das Bruxas.
+Peso : ^7777770^000000
+#
+6655#
+^ff0000Você não pode trocar este item com outra conta.^000000
+Uma abóbora, grande e suculenta. Você pode fazer uma Lanterna do Dia das Bruxas com ela. Só pode ser encontrado durante o Evento do Dia das Bruxas.
+Peso : ^7777770^000000
+#
+6656#
+^ff0000Você não pode trocar este item com outra conta.^000000
+Um amuleto que pode expulsar qualquer tipo de fantasma. Só pode ser encontrado durante o Evento do Dia das Bruxas.
+Peso : ^7777770^000000
+#
+6657#
+^ff0000Você não pode trocar este item com outra conta.^000000
+Uma bola de grama contendo a memória de Jack. Irá desaparecer após o Evento do Dia das Bruxas.
+Peso : ^7777770^000000
+#
+6658#
+Uma moeda do Submundo, que não tem valor comercial em Midgard. Irá desaparecer após o Evento do Dia das Bruxas.
+Peso : ^7777770^000000
+#
+18810#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22514#
+Um porta-doces comum, usado por mini-aventureiros durante o Dia das Bruxas. Abra-o para receber uma surpresa.
+Peso : ^7777770^000000
+#
+
+//---------------------2012 November Items--------------------
+
+18693#Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+18693#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18698#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18665#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18702#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18678#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18703#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+12829#
+Ovo da Cordilheira
+#
+
+18682#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18679#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+4497#
+Carta Cavaleiro da Tempestade Selada
+#
+
+4498#
+Carta Lady Tanee Selada
+#
+
+//---------------------2012 December Items--------------------
+
+13080#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+13084#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+1494#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18117#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+1318#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18695#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+2177#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18729#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18696#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18728#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+20700#
+Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+17037#Cx Perg. Transformação: Deviruchi#
+
+12658#Perg. Transformação: Deviruchi#
+
+17042#Cx Perg. Transformação: Poring#
+
+12663#Perg. Transformação: Poring#
+
+17040#Cx Perg. Transform.: Marduk#
+
+12661#Perg. Transformação: Marduk#
+
+17041#Cx Perg. Transform.: Banshee#
+
+12662#Perg. Transformação: Banshee#
+
+17038#Cx Perg. Transform.: RaydricA.#
+
+12659#Perg. Transformação: RaydricA.#
+
+17039#Cx Perg. Transformação: Mavka#
+
+12660#Perg. Transformação: Mavka#
+
+17043#Cx Perg. Transformação: Golem#
+
+12664#Perg. Transformação: Golem#
+
+2561#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+
+//---------------------2012 Bifröst Items--------------------
+
+2156#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2467#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2468#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2469#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2470#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2568#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2858#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2859#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2860#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2861#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2862#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2864#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2865#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2866#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+5792#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+15024#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+15025#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+15026#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+15027#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+15028#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2007#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2008#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2009#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2010#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+12561#
+Uma semente das plantas encontradas com frequência no Labirinto da Floresta Nebulosa, em Bifrost. Ela tem a inclinação natural de voltar ao seu habitat, o próprio Labirinto.
+Peso: ^7777771^000000
+#
+12573#
+Uma cesta contendo todos os tipos de frutas. Há algumas que são encontradas somente em Bifrost.
+Peso: ^7777775^000000
+#
+12574#
+Fruta vermelha e cheirosa.
+Dizem que, quando você morde a fruta, nunca mais consegue esquecê-la.
+^000088Restaura aproximadamente 50 SP^000000.
+Aumenta sua resistência aos monstros nativos de Bifrost.
+Peso: ^7777772^000000
+Nível Necessário: ^777777120^000000
+#
+12575#
+Uma aljava contendo 500 Flechas Élficas.
+Peso: ^77777725^000000
+Nível Necessário: ^777777100^000000
+#
+12576#
+Uma aljava contendo 500 Flechas de Caça.
+Peso: ^77777725^000000
+#
+6380#
+Uma moeda pequena com uma superfície polida. Ela tem várias utilidades na Vila de Mora.
+Peso: ^7777770^000000
+#
+6381#
+Uma ferramenta de escavação. Algumas pessoas a usam para preparar miojo e ovos fritos e pegar arroz.
+Peso: ^7777771^000000
+#
+6382#
+Um estojo pequeno que serve para proteger as cinzas dos mortos.
+Peso: ^7777771^000000
+#
+6383#
+Um pedaço de papel com algumas palavras escritas. Se você juntar todos os pedaços, talvez consiga descobrir o paradeiro de Lope.
+Peso: ^7777770^000000
+#
+6384#
+Um anel de casamento. É o símbolo do amor de Lope por Euridi.
+Peso: ^7777770^000000
+#
+6385#
+Uma bolsa que contém todas as ferramentas usadas pelos pesquisadores.
+Peso: ^7777770^000000
+#
+6386#
+Uma amostra da água do banho que será analisada para se descobrir mais sobre o poder misterioso que existe nela.
+Peso: ^7777770^000000
+#
+6387#
+Um dente que se acreditava pertencer à criatura não identificada que habita o banho misterioso da Vila de Mora.
+Peso: ^7777770^000000
+#
+6388#
+Uma escama que se acreditava pertencer à criatura não identificada que habita o banho misterioso da Vila de Mora.
+Peso: ^7777770^000000
+#
+6389#
+Uma amostra da água da poça que será analisada para se descobrir mais sobre o banho da Vila de Mora.
+Peso: ^7777770^000000
+#
+6390#
+Um saco pequeno derrubado por um Laphine. Há alguma coisa dentro dele.
+Peso: ^7777770^000000
+#
+6391#
+Uma caixa que contém todos os tipos de artigos e alimentos. É bem pesada.
+Peso: ^777777200^000000
+#
+6392#
+Uma caixa cheia de Bradium extraído em Manuk. Foi feita com um aspecto simples para que ninguém saiba o que há dentro dela.
+Peso: ^7777771^000000
+#
+6393#
+Uma pluma macia, leve e arredondada. Parece útil para decoração.
+Peso: ^7777771^000000
+#
+6394#
+Uma bola de pelo brilhante e luxuosa. Parece útil para decoração.
+Peso: ^7777771^000000
+#
+6395#
+Um pó misterioso. Dizem que as fadas perversas gostam de pregar peças com ele.  Contém um pouco de poder mágico.
+Peso: ^7777771^000000
+#
+4786#
+DEFM + 2
+#
+4787#
+DEFM + 4
+#
+4788#
+DEFM + 6
+#
+4789#
+DEFM + 8
+#
+4790#
+DEFM + 10
+#
+4791#
+DEF + 3
+#
+4792#
+DEF + 6
+#
+4793#
+DEF + 9
+#
+4794#
+DEF + 12
+#
+4795#
+HP + 100
+#
+4796#
+HP + 200
+#
+4797#
+HP + 300
+#
+4798#
+HP + 400
+#
+4799#
+HP + 500
+#
+4800#
+SP + 50
+#
+4801#
+SP + 100
+#
+4802#
+SP + 150
+#
+4803#
+Reduz em 3 segundos o tempo de 'recarga' de Curatio.
+#
+4804#
+Reduz em 30 pontos o custo de SP de Cura da Arena.
+#
+4805#
+Aumenta em 3% a eficiência das habilidades de cura.
+#
+11519#
+Um aperitivo exclusivo da Vila de Mora. É um sanduíche com dois hambúrgueres e vegetais e frutas no meio. A folha que o envolve dá um toque refrescante. 
+^000088Restaura aproximadamente 200 HP^000000.
+Peso: ^7777774^000000
+#
+11520#
+Fruta refrescante encontrada ocasionalmente nas proximidades de Bifrost. 
+^000088Restaura aproximadamente 50 SP^000000.
+Peso: ^7777772^000000
+Nível Necessário: ^777777100^000000
+#
+11521#
+Uma bebida feita com o Suco da Fruta da Pinguicula e um suco borbulhante. Tem um gosto surpreendentemente bom.
+^000088Restaura aproximadamente 400 HP e 50 SP^000000.
+Peso: ^7777775^000000
+Nível Necessário: ^777777100^000000
+#
+11522#
+Fluido vermelho com um poder curativo impressionante. Você não vai querer saber do que ele é feito.
+^000088Restaura aproximadamente 400 HP^000000.
+Peso: ^77777710^000000
+Nível Necessário: ^777777100^000000
+Tempo de 'Recarga': ^7777771 segundo^000000
+#
+11523#
+Fluido amarelo com um poder curativo impressionante. Você não vai querer saber do que ele é feito.
+^000088Restaura aproximadamente 600 HP^000000.
+Peso: ^77777712^000000
+Nível Necessário: ^777777110^000000
+Tempo de 'Recarga': ^7777772 segundos^000000
+#
+11524#
+Fluido branco com um poder curativo impressionante. Você não vai querer saber do que ele é feito.
+^000088Restaura aproximadamente 800 HP^000000.
+Peso: ^77777712^000000
+Nível Necessário: ^777777120^000000
+Tempo de 'Recarga': ^7777773 segundos^000000
+#
+11525#
+Chá feito com uma infusão de plantas secas que são raras até mesmo na Vila de Mora. Tem um cheiro muito bom.
+^000088Restaura aproximadamente 1.500 HP^000000.
+Peso: ^77777715^000000
+Nível Necessário: ^777777120^000000
+Tempo de 'Recarga': ^7777775 segundos^000000
+#
+11526#
+Uma bebida gelada que mistura os frutos de Pingui com xarope e gelo. 
+^000088Restaura aproximadamente 120 SP^000000.
+Peso: ^77777710^000000
+Nível Necessário: ^777777120^000000
+#
+1773#
+Flechas que eram usadas pelos anciões elfos que protegiam a floresta. Aumentam em 50% o Ataque à Distância quando usadas junto com o Arco Élfico.
+Tipo: ^777777Flecha^000000    
+Ataque: ^77777745^000000
+Peso: ^7777770.1^000000      
+Propriedade: ^777777Nenhuma^000000
+Nível Necessário: ^777777100^000000
+#
+1774#
+Flechas resistentes e perfeitas para caçar animais grandes. Aumentam em 50% o Ataque à Distância quando usadas junto com o Arco de Caçador.
+Tipo: ^777777Flecha^000000    
+Ataque: ^77777735^000000
+Peso: ^7777770.1^000000      
+Propriedade: ^777777Nenhuma^000000
+#
+
+12608#
+Uma caixa metálica com uma decoração atrativa.
+Peso : ^77777710^000000
+#
+
+12539#
+Uma caixa metálica com uma decoração convidativa.
+Peso : ^77777710^000000
+#
+
+//Eden Group Items
+1197#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+1289#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+1391#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+1434#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+1583#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+1658#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+1831#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+1931#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+1986#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2473#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+2571#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+13066#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+13310#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+13114#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+13434#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+15031#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+15033#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+15034#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+16014#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+18106#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+18514#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+
+//------------------Ep.14.1 Cards---------------------------------
+
+4456#
+INT + 5, When High wizard and War lock equip this, 50% of casting reduced.
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
+#
+4457#
+All Soul type magic damage bonus for 30%
+(napam beat, soul strike, soul expansion)
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
+#
+4458#
+ATK + 10. When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10. 
+Class : ^777777Card^000000
+Compound on: ^777777Headgear^000000
+Weight : ^7777771^000000
+#
+4459#
+MATK + 10. When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%. 
+Class : ^777777Card^000000
+Compound on: ^777777Headgear^000000
+Weight : ^7777771^000000
+#
+4460#
+Heal Skill Recovery + 3%. Increases SP cost of skills by 5%. 
+Class : ^777777Card^000000
+Compound on: ^777777Headgear^000000
+Weight : ^7777771^000000
+#
+4461#
+Dex + 1, Agi + 1. When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT + 20. 
+Class : ^777777Card^000000
+Compound on: ^777777Headgear^000000
+Weight : ^7777771^000000
+#
+4462#
+Hardrock Mammoth DEF + 5. If the armor is refined to +12 or higher, DEF + 20, MaxHP + 10%. If the armor is refined to +14 or higher, MaxHP + 3%. 
+Class : ^777777Card^000000
+Compound on: ^777777Armor^000000
+Weight : ^7777771^000000
+#
+4463#
+Tendrillion CRIT + 5. If the weapon is refined to +12 or higher, ATK + 35. If the weapon is refined to +14 or higher, CRIT + 10. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4464#
+Critical Attack Damage + 20%. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4465#
+ATK + 10. If compounded on a two hand sword, at +10 refine or higher grants ASPD +1, at +14 refine or higher grants an additional ASPD + 1.
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4466#
+Ranged Attack Damage + 3%. If compounded on a bow, at +10 refine or higher crants ASPD + 1, at +14 refine or higher grants an additional ASPD + 1. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4467#
+STR + 2. If equipped by a merchant job, increases cart revolution damage by 50%, but increases its SP cost by 12. 
+Class : ^777777Card^000000
+Compound on: ^777777Shoes^000000
+Weight : ^7777771^000000
+#
+4468#
+ATK + 10. When killing a monster, adds a chance to have a poisonous herb drop. 
+Class : ^777777Card^000000
+Compound on: ^777777Headgear^000000
+Weight : ^7777771^000000
+#
+4469#
+Increases magic damage on Fish type monsters by 10%. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4470#
+Increases magic damage on Plant type monsters by 10%.
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4471#
+Increases magic damage on Dragon type monsters by 10%. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4472#
+Increases magic damage on Brute type monsters by 10%. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4473#
+Increases magic damage on Undead type monsters by 10%.
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4474#
+Increases magic damage on DemiHuman type monsters by 10%. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4475#
+Increases magic damage on Formless type monsters by 10%. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4476#
+Increases magic damage on Insect type monsters by 10%. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+4477#
+Increases magic damage on Demon type monsters by 10%. 
+Class : ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+
+
+//------------------Ep.14.1 AB Items---------------------------------
+2471#Item não identificado. Pode ser identificado com uma [Lupa].#
+2472#Item não identificado. Pode ser identificado com uma [Lupa].#
+2569#Item não identificado. Pode ser identificado com uma [Lupa].#
+2570#Item não identificado. Pode ser identificado com uma [Lupa].#
+15029#Item não identificado. Pode ser identificado com uma [Lupa].#
+15030#Item não identificado. Pode ser identificado com uma [Lupa].#
+1657#Item não identificado. Pode ser identificado com uma [Lupa].#
+16013#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+
+//------------------Natal 2012 Items---------------------------------
+
+6681#
+^ff0000Esse item não pode ser negociado com outras contas.^000000
+O ingrediente da casa dos biscoitos para a equipe Raccoon Hooray nesse Natal...
+Peso: ^7777771^000000
+#
+
+6682#
+^ff0000Esse item não pode ser negociado com outras contas.^000000
+A mochila contém muitos itens pegos sem permissão da equipe Raccoon Hooray. Seria melhor você devolvê-la aos donos.
+Peso: ^7777771^000000
+#
+
+18850#
+Item Desconhecido. Pode ser identificado por [Lente de Aumento].
+#
+
+19707#
+Item Desconhecido. Pode ser identificado por [Lente de Aumento].
+#
+
+
+//------------------January 2013 Items---------------------------------
+
+18662#
+Item Desconhecido. Pode ser identificado por [Lente de Aumento].
+#
+
+18680#
+Item Desconhecido. Pode ser identificado por [Lente de Aumento].
+#
+
+12826#
+Wind_Type_Scroll
+#
+
+18641#
+Item Desconhecido. Pode ser identificado por [Lente de Aumento].
+#
+
+18681#
+Item Desconhecido. Pode ser identificado por [Lente de Aumento].
+#
+12530#
+Caixa_de_Mastelas[200]
+#
+
+
+//------------------February 2013 Items---------------------------------
+
+12798#Assistente Jirtas#
+12797#Assistente Dama dos Desejos#
+18674#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+18667#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+18636#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+12851#Vocation_Scroll#
+18664#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+18855#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+18675#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+18857#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+18697#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+13438#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+
+//------------------2013 ep14.1 malangdo---------------------------
+1198#
+Não identificado. Você pode identificá-lo com uma lupa.
+#
+1489#
+Não identificado. Você pode identificá-lo com uma lupa.
+#
+2872#
+Não identificado. Você pode identificá-lo com uma lupa.
+#
+2873#
+Não identificado. Você pode identificá-lo com uma lupa.
+#
+13208#
+Crustáceo e um tipo de artrópode. É tão difícil.
+Durante o ataque, ele atordoa com um fluxo normal.
+Tipo: ^777777Ataque com munição^000000: ^77777750^000000
+Peso: ^7777770.5^000000 propriedades: ^777777nenhuma^000000
+#
+16740#
+Uma caixa que tem uma Proteção do Deus do Mar. (Disponível por 23 horas)
+^000088Item para locação.^000000
+Um certificado de Proteção do Deus do Mar.
+Peso: ^7777771^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16741#
+Uma caixa que tem uma trichiuridae (disponível por uma hora).
+^000088Item para locação.^000000
+Isso está bem congelado.
+Crítico + 20, dano crítico com 50% de aumento.
+Durante o ataque, ele dá uma carga de congelamento de fluxo normal ao inimigo.
+Quando o nível de base for mais de 100, + 50 de ATQ.
+Tipo: ^777777Ataque com espada de duas mãos^000000: ^777777220^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Espadachim^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16742#
+Uma caixa que tem uma trichiuridae (disponível por 7 dias).
+^000088Item para locação.^000000
+Isso está bem congelado.
+Crítico + 20, dano crítico com 50% de aumento.
+Durante o ataque, ele dá uma carga de congelamento de fluxo normal ao inimigo.
+Quando o nível de base for mais de 100, + 50 de ATQ.
+Tipo: ^777777Ataque com espada de duas mãos^000000: ^777777220^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Espadachim^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16743#
+Uma caixa que tem um marlim. (Disponível por 1 hora)
+^000088Item para locação.^000000
+Um marlim e um peixe oceânico. É bem conhecido pelo seu peixe delicioso e é bem congelado.
+Quando usar o perfurar ou perfurar em espiral, ele dá um dano crítico com uma taxa alta. E também se congela em uma taxa baixa.
+O ataque com perfurar em espiral aumenta 100% , o ataque com inspiração 50% . (o efeito da inspiração desaparecerá quando for desequipado)
+Se o nível de base for mais de 100, adicione + 30 de ATQ.
+Tipo: ^777777Ataque com lançará de duas mãos^000000: ^777777220^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Espadachim^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16744#
+Uma caixa que tem um marlim. (Disponível por 7 dias)
+^000088Item para locação.^000000
+Um marlim e um peixe oceânico. É bem conhecido pelo seu peixe delicioso e é bem congelado.
+Quando usar o perfurar ou perfurar em espiral, ele dá um dano crítico com uma taxa alta. E também se congela em uma taxa baixa.
+O ataque com perfurar em espiral aumenta 100% , o ataque com inspiração 50% . (o efeito da inspiração desaparecerá quando for desequipado)
+Se o nível de base for mais de 100, adicione + 30 de ATQ.
+Tipo: ^777777Ataque com lançará de duas mãos^000000: ^777777220^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Espadachim^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16745#
+Uma caixa que tem um bonito (disponível por 1 hora).
+^000088Item para locação.^000000
+Está incrivelmente congelado.
++ 100 de ATQM.
+Quando houver ataque físico mais próximo, + 30 de ATQ por 7 s.
+Quando houver um ataque mágico, + 20 de ATQM por 7 s.
+Se o nível de base for mais de 100, + 10 de ATQ. + 10 de ATQM. 
+Tipo: ^777777Ataque com espada^000000: ^777777160^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Espadachim/Classe Mago/Classe Arqueiro/Classe Mercador/Classe Gatuno/Conector de Alma/Ninja^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16746#
+Uma caixa que tem um bonito (disponível por 7 dias).
+^000088Item para locação.^000000
+Está incrivelmente congelado.
++ 100 de ATQM.
+Quando houver ataque físico mais próximo, + 30 de ATQ por 7 s.
+Quando houver um ataque mágico, + 20 de ATQM por 7 s.
+Se o nível de base for mais de 100, + 10 de ATQ. + 10 de ATQM. 
+Tipo: ^777777Ataque com espada^000000: ^777777160^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Espadachim/Classe Mago/Classe Arqueiro/Classe Mercador/Classe Gatuno/Conector de Alma/Ninja^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16747#
+Uma caixa que tem um peixe-manteiga (disponível por 1 hora).
+^000088Item para locação.^000000
+Está incrivelmente congelado.
+Quando houver ataque físico mais próximo, ele atordoará gatos ou lançará automaticamente o Golpe Fulminante de Nv. 5.(se for maior que o Nv. 5, lançará o NV. aprendido)
+Faz com que ele congele em uma taxa baixa.
+Se o nível de base for mais de 100, + 20 de ATQ.
+Tipo: ^777777Ataque de impacto^000000: ^777777180^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Espadachim/Classe Noviço/Classe Mercador^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16748#
+Uma caixa que tem um peixe-manteiga (disponível por 7 dias).
+^000088Item para locação.^000000
+Está incrivelmente congelado.
+Quando houver ataque físico mais próximo, ele atordoará gatos ou lançará automaticamente o Golpe Fulminante de Nv. 5.(se for maior que o Nv. 5, lançará o NV. aprendido)
+Faz com que ele congele em uma taxa baixa.
+Se o nível de base for mais de 100, + 20 de ATQ.
+Tipo: ^777777Ataque de impacto^000000: ^777777180^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Espadachim/Classe Noviço/Classe Mercador^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16749#
+Um caixa que tem um caranguejo da neve da área de Malang (disponível por 1 hora).
+^000088Item para locação.^000000
+Geralmente vive na areia ou na lama.
++ 3 de SOR, dano crítico com 50% de aumento.
+Se o nível de base for mais de 100, adicione 20% de distância do ataque físico.
+Tipo: ^777777Ataque com arco^000000: ^777777120^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Arqueiro/Gatuno/Classe Arruaceiro^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+16750#
+Um caixa que tem um caranguejo da neve da área de Malang (disponível por 7 dias).
+^000088Item para locação.^000000
+Geralmente vive na areia ou na lama.
++ 3 de SOR, dano crítico com 50% de aumento.
+Se o nível de base for mais de 100, adicione 20% de distância do ataque físico.
+Tipo: ^777777Ataque com arco^000000: ^777777120^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Arqueiro/Gatuno/Classe Arruaceiro^000000
+^ff0000Para esse item, o reembolso pelo cancelamento da compra não é permitido^000000.
+Peso: ^7777771^000000
+#
+18107#
+^000088Item para locação.^000000
+ Um tipo de caranguejo que vive na areia ou na lama.
++ 3 de SOR, dano crítico 50% .
+Se o nível de base for mais de 100, 20% de distância do ataque físico.
+Tipo: ^777777Ataque com arco^000000: ^777777120^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Arqueiro/Gatuno/Classe Arruaceiro^000000
+#
+18108#
+^000088Item para locação.^000000
+Uma enguia da praia de Malangdo.
++ 3 de AGI, se o ataque físico distante, VelATQ + 2 por 5 s.
+Se o nível de base for mais de 100, 20% de distância do ataque físico.
+Tipo: ^777777Ataque com arco^000000: ^777777180^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Classe Caçador/Classe Bardo/Classe Odalisca^000000
+#
+18536#
+Item não identificado, pode ser identificado com [Lupa].
+#
+18537#
+Item não identificado, pode ser identificado com [Lupa].
+#
+6417#
+Fruta Silvervine madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
+Peso: ^7777770^000000
+#
+6418#
+Moeda brilhante de alto nível. Há a possibilidade de encantar uma arma de luxo.
+Peso: ^7777770^000000
+#
+6419#
+Moeda brilhante de alto nível. Há a possibilidade de encantar uma arma de luxo.
+Peso: ^7777770^000000
+#
+6420#
+Moeda geral normal. Há a possibilidade de encantar uma arma de nível médio.
+Peso: ^7777770^000000
+#
+6421#
+Moeda geral normal. Há a possibilidade de encantar uma arma de nível médio.
+Peso: ^7777770^000000
+#
+6422#
+Moeda de baixíssimo nível. Se você recolher várias delas, elas poderão ser usadas como refinamento de armas.
+Peso: ^7777770^000000
+#
+6423#
+Relíquia da Fúria do Deus do Mar. Ninguém sabe a habilidade dessa arma.
+Peso: ^7777770^000000
+#
+6426#
+Parece uma comida enlatada normal, mas a superfície está enferrujada aqui e ali. Isso me enoja.
+Peso: ^7777771^000000
+#
+6427#
+Saco cheio de comida enlatada de má qualidade. O propósito é suspeito.
+Peso: ^7777770^000000
+#
+16751#
+Uma caixa com 1 enguia pintada. (Disponível por 1 hora)
+^000088Item para locação.^000000
+Uma enguia pintada apareceu na praia de Malangdo. É sempre elástica e tenta ficar esticada. Por isso, podemos usá-la como flecha.
++ 3 de AGI, são adicionados +2 de VelATQ por 5 segundos com probabilidade consistente quando você fizer um ataque físico de longa distância.
+Adicionar 20% ao ataque físico de longa distância quando o nível de base estiver acima de 100.
+Tipo: ^777777Ataque com flecha^000000: ^777777180^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Caçador/Bardo/Odalisca^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16752#
+Uma caixa com 1 enguia pintada. (Disponível por 7 dias)
+^000088Item para locação.^000000
+Uma enguia pintada apareceu na praia de Malangdo. É sempre elástica e tenta ficar esticada. Por isso, podemos usá-la como flecha.
++ 3 de AGI, são adicionados +2 de VelATQ por 5 segundos com probabilidade consistente quando você fizer um ataque físico de longa distância.
+Adicionar 20% ao ataque físico de longa distância quando o nível de base estiver acima de 100.
+Tipo: ^777777Ataque com flecha^000000: ^777777180^000000
+Peso: ^7777770^000000
+Nv. da Arma: ^7777771^000000
+Nv. Necessário: ^77777750^000000
+Classe: ^777777Caçador/Bardo/Odalisca^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16763#
+Caixa com 1 Proteção do Deus do Mar. (Disponível por 7 dias)
+^000088Item para locação.^000000
+Emblema da Proteção do Deus do Mar. Dá a forte habilidade de sobreviver às ondas violentas de alto mar.
+Peso: ^7777771^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16764#
+Caixa com 1 Proteção do Deus do Mar. (Disponível por 15 dias)
+^000088Item para locação.^000000
+Emblema da Proteção do Deus do Mar. Dá a forte habilidade de sobreviver às ondas violentas de alto mar.
+Peso: ^7777771^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16765#
+Caixa com 1 vareta para caçar polvo. (Disponível por 23 horas)
+Especificamente criado para caçar o polvo-rei.
+Peso: ^7777770^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16766#
+Caixa com 1 vareta para caçar polvo. (Disponível por 3 dias)
+Especificamente criado para caçar o polvo-rei.
+Peso: ^7777770^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16767#
+Caixa com 1 vareta para caçar polvo. (Disponível por 7 dias)
+Especificamente criado para caçar o polvo-rei.
+Peso: ^7777770^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16770#
+Caixa com 10 frutas Silvervine. Uma pequena quantidade de comida enlatada está incluída como bônus.
+Fruta Silvervine madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
+Peso: ^7777770^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16771#
+Caixa com 40 frutas Silvervine. Uma pequena quantidade de comida enlatada está incluída como bônus.
+Fruta Silvervine madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
+Peso: ^7777770^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+16979#
+Caixa com 4 frutas Silvervine. Uma pequena quantidade de comida enlatada está incluída como bônus.
+Fruta Silvervine madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
+Peso: ^7777770^000000
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+17013#
+Caixa com 1 vareta de caçar polvo e Proteção do Deus do Mar (disponível por 23 horas).
+^ff0000Itens abertos não são reembolsáveis^000000.
+Peso: ^7777771^000000
+#
+6428#
+Carta de aventura da Equipe de Aventureiros Meow. A carta é necessária para experimentar a aventura da Equipe de Aventureiros Meow.
+Peso: ^7777770^000000
+#
+6429#
+Carta de aventura da Equipe de Aventureiros Meow. A carta é necessária para experimentar a aventura da Equipe de Aventureiros Meow.
+Peso: ^7777770^000000
+#
+6430#
+Um fragmento do quadro que foi encontrado durante a caça ao tesouro. Quando todos os fragmentos forem recolhidos, ele se tornará um quadro completo.
+Peso: ^7777770^000000
+#
+6431#
+Um balde normal, comum. Parece que qualquer coisa pode ser carregada nele.
+Peso: ^77777710^000000
+#
+6432#
+Um balde com água até a borda. É bem pesado, então, tome cuidado para não derramar a água.
+Peso: ^777777300^000000
+#
+6433#
+Uma escova apropriada para a limpeza. A cerdas são abrasivas o suficiente para proporcionar uma boa faxina.
+Peso: ^77777730^000000
+#
+6434#
+Um kit de conserto de rachaduras no chão. Há tudo para o conserto como pá, serra, adesivos, grampeador, pepino-do-mar e ascídia.
+Peso: ^777777100^000000
+#
+6435#
+Fruta fresca de Yggdrasil. Também tem um cheiro fresco!
+Peso: ^77777710^000000
+#
+6436#
+^000088Item para locação.^000000
+Um emblema no qual a Proteção do Deus do Mar foi inserido. Permite que você tenha uma habilidade especial de sobreviver no fundo do mar.
+Peso: ^7777770^000000
+#
+6440#
+Um lubrificante que ajuda a remover a carta que já está presa em um slot de um equipamento. No entanto, isso só ajudará na remoção da carta. O equipamento e seu nível de refinamento podem ter um problema depois da tentativa de refinamento.
+Peso: ^7777770^000000
+#
+6441#
+Um lubrificante que ajuda a remover a carta que já está presa em um slot de um equipamento. Ele está muito bem, então, ele pode proteger o equipamento e seu nível de refinamento enquanto você remove a carta, ao contrário da normal.
+Peso: ^7777770^000000
+#
+6442#
+^000088Item para locação.^000000
+Uma vareta de caça especial para caçar polvos gigantes.
+Peso: ^7777770^000000
+#
+6443#
+[^ff0000Frágil^000000]
+O agente lendário que supostamente derrete a superfície de um objeto para que qualquer coisa possa ser separada. Será perfeito para retirar cartas MVP.
+Peso: ^7777770^000000
+#
+11536#
+Alimento que a frota da Associação Cat Comercial comia na viagem. É uma bolacha dura e fácil de armazenar.
+Esses gatos marinheiros chamam isso de amolador de dentes ou castelo de vermes. Algum HP pode ser recuperado, se você os comer.
+Peso: ^7777771^000000
+#
+11537#
+Um verme gordo foi descoberto quando o biscoito estava quase sendo comido.
+Pode ser uma fonte de energia importante em uma situação de sobrevivência, mas...
+Peso: ^7777771^000000
+#
+12612#
+Uma sacola pequena e gasta que faz um barulhinho. Cling! Ninguém tem a menor ideia do que está nela.
+Peso: ^7777771^000000
+#
+12613#
+Uma sacola pequena que faz um barulhinho. Cling! Dizem que, às vezes, tem uma moeda muito boa nela.
+Peso: ^7777771^000000
+#
+12614#
+Uma sacola pequena que faz um barulhinho. Cling! Dizem que, às vezes, tem uma moeda bastante boa nela.
+Peso: ^7777771^000000
+#
+12615#
+Uma sacola pequena que faz um barulhinho. Cling!
+Dizem que você não pode esperar alguma coisa boa dela.
+Peso: ^7777771^000000
+#
+12616#
+Uma sacola com moeda A e B e algumas outras coisas também. Se você tiver sorte, você pode até conseguir uma Raiva do Deus do Mar.
+Peso: ^7777771^000000
+#
+12617#
+Essa é uma sacola com moeda A, B e C, se você tiver sorte conseguirá mais latas ou moedas.
+Peso: ^7777771^000000
+#
+12618#
+Essa é uma sacola com moeda B, C e D, se você tiver sorte conseguirá mais latas ou moedas.
+Peso: ^7777771^000000
+#
+12619#
+Essa é uma sacola com moeda C, D e E, se você tiver sorte conseguirá mais latas ou moedas.
+Peso: ^7777771^000000
+#
+12620#
+Essa é uma sacola com moeda D e E, se você tiver sorte conseguirá mais latas ou moedas.
+Peso: ^7777771^000000
+#
+12621#
+Essa é uma sacola com moeda E, se você tiver sorte conseguirá mais latas ou moedas.
+Peso: ^7777771^000000
+#
+12623#
+Uma caixa rígida com lindos detalhes. Há muitos equipamentos de ponta.
+Peso: ^7777771^000000
+#
+12624#
+Nhammm, gelatina marrom, quando comer você vai ficar feliz. Pode derreter, então, por favor, não deixe em local quente.
+Recupera 3% de HP e SP.
+Peso: ^7777775^000000
+#
+12633#
+Produção especial de Malangdo, enlatado para que você possa guardar com facilidade. Estranhamente é conhecida por dar poderes às pessoas.
+Aumenta a experiência e experiência de classe em 10% por 20 min. (pode sobrepor outros itens de experiência e são válidos apenas para a caça de monstros.)
+Aumenta em 20% a taxa de itens deixados por 20 min.
+Peso: ^7777775^000000
+#
+12636#
+Comida enlatada deliciosa de Malangdo.
+Você lembrará o mar de Malangdo, e verá imagens na sua cabeça quando comer... Quando olhar ao redor, perceberá que está em Malangdo.
+Peso: ^7777770^000000
+#
+12637#
+Uma sacola com 200 insetos Gong.
+Posso sentir alguma coisa se movimentando dentro da sacola, isso não é bom.
+Peso: ^77777750^000000
+#
+12638#
+Uma sacola com 200 lulas secas.
+Cuidado quando tirar a embalagem, está compactada em uma sacola pequena.
+Peso: ^777777200^000000
+#
+12639#
+Uma sacola com 200 peixes voadores.
+Fiquei surpreso com a quantidade deles em uma sacola pequena...
+Peso: ^777777200^000000
+#
+12640#
+Uma sacola com 200 estrelas-do-mar.
+Bem empacotada.
+Peso: ^77777750^000000
+#
+12643#
+Uma saco velho e fino para carregar moedas. . Há 50 e-moedas na sacola.
+Peso: ^7777771^000000
+#
+13068#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+13291#
+Equinoderme, estrela-do-mar. Parece uma estrela. É duro, então, pode ser usado como um shuriken.
+Dá um efeito atordoador com certa taxa durante o ataque.
+Tipo: ^777777Arma de lançar^000000
+Ataque: ^777777110^000000
+Nv. Necessário: ^77777750^000000
+Peso: ^7777770.5^000000      Tipo: ^777777Nada.^000000
+#
+13292#
+Uma lula que está seca há muito tempo. Pode até ser usada como uma kunai.
+Causa cegueira com certa taxa.
+Tipo: ^777777Ataque com uma arma de lançar^000000: ^77777750^000000
+Peso: ^7777772^000000 Tipo: ^777777Tipo Nada^000000
+#
+13293#
+Um peixe voador. Há um rumor de que ele voa com uma grande nadadeira. Ele está congelado, então, é possível usá-lo como um kunai.
+Faz uma cicatriz com certa taxa.
+Tipo: ^777777Ataque com uma arma de lançar^000000: ^77777750^000000
+Peso: ^7777772^000000 Tipo: ^777777Tipo Nada^000000
+#
+16015#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+16016#
+Item desconhecido que pode ser identificado pela [Lente de Aumento].
+#
+12531#
+Uma caixa contendo 100 Poções Brancas
+Peso : ^7777770^000000
+^ff0000 Cuidado - Se você estiver acima do peso e abrir a caixa, os itens poderão não ser recebidos. Verifique o peso de seu personagem!^000000
+#
+6451#
+^ff0000Este item não pode ser negociado^000000
+Um peixe que vive próximo a Malangdo, ainda não identificado.
+Há um gato pegando este peixe!
+Peso : ^7777770^000000
+#
+
+//------------------March2013 Items---------------------------------
+
+5788#Item não identificado. Pode ser identificado com uma [Lupa].#
+18699#Item não identificado. Pode ser identificado com uma [Lupa].#
+18727#Item não identificado. Pode ser identificado com uma [Lupa].#
+18692#Item não identificado. Pode ser identificado com uma [Lupa].#
+12850#Heaven_Scroll#
+18700#Item não identificado. Pode ser identificado com uma [Lupa].#
+4503#Carta Vesper Selada#
+14531#Perg. de Precisão Apurada#
+18856#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+//------------------April2013 Items---------------------------------
+18647#Item não identificado. Pode ser identificado com uma [Lupa].#
+18648#Item não identificado. Pode ser identificado com uma [Lupa].#
+12853#Patron_Scroll#
+17178#Cx. Água Milagrosa[50]#
+12832#Água Milagrosa#
+17224#Bolinho Divino[10]#
+12883#Bolinho Divino#
+ 
+1562#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+
+19541#Item não identificado. Pode ser identificado com uma [Lupa].#
+13081#Item não identificado. Pode ser identificado com uma [Lupa].#
 
 
 
