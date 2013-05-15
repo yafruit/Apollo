@@ -3,3 +3,6 @@ Version 1.1.1450.0.apollo_rtm.130511-1454
 
 // --- 1.1.1450.8.apollo_rtm.130515-1354
 Atualizado de acordo com o bRO.
+
+// --- 1.1.1450.9.apollo_rtm.130515-1400
+Atualização aplicada no arquivo msgstringtable_alt.txt (para clients anteriores ao 2011-12-28aRagexeRE+).
