@@ -12,3 +12,8 @@ Adicionados arquivos da pasta "AI" e "AI_sakray", para clients do ano 2011 & 201
 
 // --- 1.1.1450.11.apollo_rtm.130518-0023
 Pasta "System" atualizada.
+
+// --- 1.1.1450.12.apollo_rtm.130518-1407
+msgstringtable.txt atualizado, compatível com clients mais novos.
+
+// --- File end.
