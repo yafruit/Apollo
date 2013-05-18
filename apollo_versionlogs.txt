@@ -9,3 +9,6 @@ Atualização aplicada no arquivo msgstringtable_alt.txt (para clients anteriores 
 
 // --- 1.1.1450.10.apollo_rtm.130516-1531
 Adicionados arquivos da pasta "AI" e "AI_sakray", para clients do ano 2011 & 2012. Compatibilidade com clients do ano 2013 é desconhecida.
+
+// --- 1.1.1450.11.apollo_rtm.130518-0023
+Pasta "System" atualizada.
