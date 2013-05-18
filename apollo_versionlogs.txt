@@ -16,4 +16,7 @@ Pasta "System" atualizada.
 // --- 1.1.1450.12.apollo_rtm.130518-1407
 msgstringtable.txt atualizado, compatível com clients mais novos.
 
+// --- 1.1.1450.13.apollo_rtm.130518-1755
+Ajustes no clientinfo.xml
+
 // --- File end.
