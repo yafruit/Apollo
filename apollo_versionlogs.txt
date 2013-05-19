@@ -19,4 +19,7 @@ msgstringtable.txt atualizado, compatível com clients mais novos.
 // --- 1.1.1450.13.apollo_rtm.130518-1755
 Ajustes no clientinfo.xml
 
+// --- 1.1.1450.14.apollo_rtm.130519-1147
+OptionInfo.lub adicionado (pasta System).
+
 // --- File end.
