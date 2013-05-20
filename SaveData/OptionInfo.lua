@@ -27,8 +27,8 @@ CmdOnOffList["/lightmap"] = 1
 CmdOnOffList["/monsterhp"] = 1
 
 OptionInfoList["Trilinear"] = 1
-OptionInfoList["Bgm_Volume"] = 7
-OptionInfoList["Effect_Volume"] = 6
+OptionInfoList["Bgm_Volume"] = 100
+OptionInfoList["Effect_Volume"] = 100
 OptionInfoList["AutoOpen1to1Window"] = 1
 OptionInfoList["AutoOpen1to1Window_Friend"] = 1
 OptionInfoList["PlaySound_Open1to1Window"] = 1
@@ -54,4 +54,4 @@ OptionInfoList["DEVICECNT"] = 0
 OptionInfoList["MODECNT"] = 0
 OptionInfoList["SPRITEMODE"] = 2
 OptionInfoList["TEXTUREMODE"] = 2
-OptionInfoList["bLockItemDropFromItemWnd"] = 0
+OptionInfoList["bLockItemDropFromItemWnd"] = 1
