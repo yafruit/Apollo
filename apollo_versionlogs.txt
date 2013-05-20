@@ -22,4 +22,7 @@ Ajustes no clientinfo.xml
 // --- 1.1.1450.14.apollo_rtm.130519-1147
 OptionInfo.lub adicionado (pasta System).
 
+// --- 1.1.1450.15.apollo_rtm.130520-0020
+Pasta "SaveData" e arquivos adiciona.
+
 // --- File end.
