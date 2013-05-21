@@ -28,4 +28,7 @@ Pasta "SaveData" adicionada, arquivos correspondentes a mesma também adicionados
 // --- 1.1.1450.16.apollo_rtm.130520-1434
 Ajustes e correções no OptionInfo.lua da pasta SaveData.
 
+// --- 1.1.1450.17.apollo_rtm.130521-1721
+System » LuaFiles514, adicionado OptionInfo.lub
+
 // --- File end.
