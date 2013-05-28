@@ -34,4 +34,7 @@ System » LuaFiles514, adicionado OptionInfo.lub
 // --- 1.1.1450.18.apollo_rtm.130522-1142
 Atualizações do bRO aplicadas.
 
+// --- 1.1.1450.19.apollo_rtm.130522-1138
+Pasta "Font" (System » Font) adicionada juntamente a seus respectivos arquivos.
+
 // --- File end.
