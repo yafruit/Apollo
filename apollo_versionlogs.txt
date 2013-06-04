@@ -40,4 +40,7 @@ Pasta "Font" (System » Font) adicionada juntamente a seus respectivos arquivos.
 // --- 1.1.1450.20.apollo_rtm.130529-1357
 Atualizações do bRO aplicadas.
 
+// --- 1.1.1450.21.apollo_rtm.130603-1121
+Remoção das imagens de fundo da tela de login, ficando a inserção de uma a critério do usuário, adicionado também o arquivo equipwin_special.bmp utilizado por clients do ano 2013.
+
 // --- File end.
