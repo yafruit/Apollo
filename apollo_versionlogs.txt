@@ -8,7 +8,8 @@ Atualizado de acordo com o bRO.
 Atualização aplicada no arquivo msgstringtable_alt.txt (para clients anteriores ao 2011-12-28aRagexeRE+).
 
 // --- 1.1.1450.10.apollo_rtm.130516-1531
-Adicionados arquivos da pasta "AI" e "AI_sakray", para clients do ano 2011 & 2012. Compatibilidade com clients do ano 2013 é desconhecida.
+Adicionados arquivos da pasta "AI" e "AI_sakray", para clients do ano 2011 & 2012.
+Compatibilidade com clients do ano 2013 é desconhecida.
 
 // --- 1.1.1450.11.apollo_rtm.130518-0023
 Pasta "System" atualizada.
@@ -40,7 +41,11 @@ Pasta "Font" (System » Font) adicionada juntamente a seus respectivos arquivos.
 // --- 1.1.1450.20.apollo_rtm.130529-1357
 Atualizações do bRO aplicadas.
 
-// --- 1.1.1450.21.apollo_rtm.130603-1121
-Remoção das imagens de fundo da tela de login, ficando a inserção de uma a critério do usuário, adicionado também o arquivo equipwin_special.bmp utilizado por clients do ano 2013.
+// --- 1.1.1450.21.apollo_rtm.130603-2321
+Remoção das imagens de fundo da tela de login, ficando a inserção de uma a critério do usuário.
+Adicionado também o arquivo equipwin_special.bmp utilizado por clients do ano 2013.
+
+// --- 1.1.1450.22.apollo_rtm.130603-2330
+Arquivos extras relacionados a interface adicionados, referentes a clients do ano 2013.
 
 // --- File end.
