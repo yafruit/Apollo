@@ -48,4 +48,7 @@ Adicionado também o arquivo equipwin_special.bmp utilizado por clients do ano 20
 // --- 1.1.1450.22.apollo_rtm.130603-2330
 Arquivos extras relacionados a interface adicionados, referentes a clients do ano 2013.
 
+// --- 1.1.1450.23.apollo_rtm.130605-1120
+Atualizações do bRO aplicadas.
+
 // --- File end.
