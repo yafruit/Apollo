@@ -51,4 +51,7 @@ Arquivos extras relacionados a interface adicionados, referentes a clients do an
 // --- 1.1.1450.23.apollo_rtm.130605-1120
 Atualizações do bRO aplicadas.
 
+// --- 1.1.1450.24.apollo_rtm.130612-1541
+Atualizações do bRO aplicadas.
+
 // --- File end.
