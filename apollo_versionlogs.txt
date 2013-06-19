@@ -1,5 +1,5 @@
 Project started.
-Version 1.1.1450.0.apollo_rtm.130511-1454
+Version 1.1.1450.0.apollo_rtm.130511-1454 (1450.0 ~ 1450.7)
 
 // --- 1.1.1450.8.apollo_rtm.130515-1354
 Atualizado de acordo com o bRO.
@@ -56,5 +56,9 @@ Atualizações do bRO aplicadas.
 
 // --- 1.1.1450.25.apollo_rtm.130618-2208
 Arquivo msgstringtable.txt (para clients do ano 2013) atualizado.
+
+// --- 1.1.1450.26.apollo_rtm.130619-1345
+Aplicação de atualizações do bRO aplicadas, uma atualização geral também foi feita.
+Uma adcumentação quanto ao uso em clients do ano 2012 e 2013 será feita em breve.
 
 // --- File end.

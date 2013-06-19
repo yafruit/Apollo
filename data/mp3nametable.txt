@@ -139,7 +139,6 @@ moc_fild20.rsw#bgm\\120.mp3#
 moc_fild21.rsw#bgm\\120.mp3#
 moc_fild22.rsw#bgm\\121.mp3#
 que_moc_16.rsw#bgm\\45.mp3#
-que_moon.rsw#bgm\\65.mp3#
 bossnia_01.rsw#bgm\\50.mp3#
 bossnia_02.rsw#bgm\\50.mp3#
 bossnia_03.rsw#bgm\\50.mp3#
@@ -774,3 +773,4 @@ pvp_y_8-5.rsw#bgm\\119.mp3#
 pvp_y_room.rsw#bgm\\52.mp3#
 pvp_2vs2.rsw#bgm\\02.mp3#
 pvp_room.rsw#bgm\\52.mp3#
+que_moon.rsw#bgm\\65.mp3#
