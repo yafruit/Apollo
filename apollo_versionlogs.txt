@@ -54,4 +54,7 @@ Atualizações do bRO aplicadas.
 // --- 1.1.1450.24.apollo_rtm.130612-1541
 Atualizações do bRO aplicadas.
 
+// --- 1.1.1450.25.apollo_rtm.130618-2208
+Arquivo msgstringtable.txt (para clients do ano 2013) atualizado.
+
 // --- File end.
